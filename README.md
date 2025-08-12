@@ -43,7 +43,7 @@
 ### 5. Liberação para Produção
 - Após aprovação em todos os testes, realiza-se o deploy.
 
-![Fluxo de QA - Shift Left](<img width="3900" height="663" alt="image" src="https://github.com/user-attachments/assets/6d29c6e5-6c25-4365-827b-dac8297526c2" />)
+📸 [Fluxo de QA - Shift Left](./assets/fluxograma_shift_left_completo_com_teste.png)
 
 ---
 
